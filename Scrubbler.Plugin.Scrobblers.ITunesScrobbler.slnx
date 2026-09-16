@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Directory.Build.props" />
+    <File Path="Directory.Build.targets" />
+    <File Path="Directory.Packages.props" />
+    <File Path="global.json" />
+  </Folder>
+  <Project Path="Scrubbler.Plugin.Scrobblers.ITunesScrobbler/Scrubbler.Plugin.Scrobblers.ITunesScrobbler.csproj" />
+  <Project Path="Scrubbler.Test.ITunesScrobblerTest/Scrubbler.Test.ITunesScrobblerTest.csproj" />
+</Solution>
+
