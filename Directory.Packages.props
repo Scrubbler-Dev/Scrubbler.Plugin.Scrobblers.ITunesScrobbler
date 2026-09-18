@@ -2,7 +2,7 @@
   <Import Project="deps/Directory.Packages.props" />
 
   <ItemGroup>
-    <PackageVersion Include="Scrubbler.PluginBase" Version="1.2.2" />
+    <PackageVersion Include="Scrubbler.PluginBase" Version="1.2.3" />
     <PackageVersion Include="Scrubbler.MediaPlayerScrobblerBase" Version="1.2.0" />
   </ItemGroup>
 </Project>
