@@ -3,7 +3,7 @@
 
   <ItemGroup>
     <PackageVersion Include="Scrubbler.PluginBase" Version="1.2.3" />
-    <PackageVersion Include="Scrubbler.MediaPlayerScrobblerBase" Version="1.2.0" />
+    <PackageVersion Include="Scrubbler.MediaPlayerScrobblerBase" Version="1.2.1" />
   </ItemGroup>
 </Project>
 
